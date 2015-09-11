@@ -1,2 +1,2 @@
-# frontapp.github.io
-Front's developer resources
+# Canned Responses frontapp plugin
+Canned Responses
